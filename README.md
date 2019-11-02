@@ -14,4 +14,4 @@
    
    1.6 Longest Increasing Path in a Matrix [ Hard]
    
-LinkedIn:  https://www.linkedin.com/pulse/tpological-sort-leetcode-problems-avinash-anantharamu/?published=t 
+LinkedIn Pulse :  https://www.linkedin.com/pulse/tpological-sort-leetcode-problems-avinash-anantharamu/?published=t 
