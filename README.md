@@ -1,5 +1,12 @@
 # FANG_interview_prep
 
+Facebook: 
+
+   Round 1: 45 min Video Phone Screen 
+   
+   Round 2:
+            2 Coding Interviews  | 1 (Distributed Systems/API) Design Round   | 1 Behavioural Round 
+
 1. Topological Sort
    
    1.1 Sort Items by Groups Respecting Dependencies [ Hard] 
